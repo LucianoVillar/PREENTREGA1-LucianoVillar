@@ -74,7 +74,7 @@ let nombreJuego = prompt("Ingrese nombre del juego.");
 let preciojuego = parseInt(prompt("Ingrese valor del juego."));
 
 if((nombreJuego !="") && (!isNaN(preciojuego))){
-    alert("El nombre y el precio recomendados, fueron ingresados con exito, gracias por colaborar para que LifeGame.");
+    alert("El nombre y el precio recomendados, fueron ingresados con exito, gracias por colaborar para que LifeGame sea cada dia mejor.");
 }else{
     alert("Error: Ingresar nombre y precio");
 }
